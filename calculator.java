@@ -14,6 +14,7 @@ if(ch==1)
 {
     c=a+b;
     System.out.println("Addtion of these number is"+c);
+    System.out.println("Addtion of these number is"+c);
 }
 else if(ch==2)
 {
