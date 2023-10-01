@@ -1,3 +1,5 @@
+
+//This program performs basic mathematical operation in +,-,* and /.
 import java.util.*;
 class calcu
 {
